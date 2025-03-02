@@ -1,2 +1,191 @@
 # trabajo-pagina-web
 estoy cansado jefe
+<HTML>
+<HEAD>
+<TITLE> PROGRAMA 60</TITLE>
+</HEAD>
+<BODY BGCOLOR=SALMON>
+<TABLE>
+<TR>
+<TH>NOMBRE</TH>
+<TH>EDAD</TH>
+<TH>GRUPO</TH>
+<TH>COMIDA FAV</TH>
+<TH>DEPORTE FAV</TH>
+</TR>
+<TR>
+<TD>JORGE ANTONIO VILLA MORENO</TD>
+<TD>18 AÑOS</TD>
+<TD>TERCERO IV</TD>
+<TD>ENCHILADAS</TD>
+<TD>MMA</TD>
+</TR>
+</TABLE>
+</HEAD>
+<BODY BGCOLOR=SALMON>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+  https://open.spotify.com/intl-es/track/2ONADYjJvqYVwjWavuY0H1?si=048bb6e739c44f91  
+https://mx.pinterest.com/pin/73113193946587717/
+  https://www.instagram.com/reel/DFtDQlmqF7c/?igsh=eGxrOHc0czg5bDJ5
+</HEAD>
+<BODY BGCOLOR=SALMON>
+<TABLE>
+<TR>
+<TH>PAIS</TH>
+<TH>PELEADOR</TH>
+<TH>PELEAS GANADAS</TH>
+<TH>EDAD</TH>
+</TR>
+<TR>
+<TD>BRASIL</TD>
+<TD>MAIRON SANTOS</TD>
+<TD>15-1</TD>
+<TD>24 AÑOS</TD>
+</TR>
+<TR>
+<TD>JAPON</TD>
+<TD>TATSURO TAIRA</TD>
+<TD>14-0</TD>
+<TD>24 AÑOS</TD>
+<TR>
+<TD>MEXICO</TD>
+<TD> RAUL ROSAS </TD>
+<TD>10-1</TD>
+<TD>20 AÑOS</TD>
+</TR>
+<TR>
+<TD>BRASIL</TD>
+<TD> IASMIN LUCINDO </TD>
+<TD>17-5</TD>
+<TD>22 AÑOS</TD>
+</TR>
+</TABLE>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+https://www.instagram.com/reel/DFLcOocqot1/?igsh=cXE1emNjMmh3OXBu
+  </HEAD>
+https://open.spotify.com/intl-es/track/7q6Jj2dY2n3nlv8irOmQk9?si=66a4cfc9c2584ff9
+https://mx.pinterest.com/pin/316237205103835531/
+<BODY BGCOLOR=SALMON>
+<TABLE>
+<TR>
+<TH>COMPANIA</TH>
+<TH>MODELO</TH>
+<TH>PRECIO</TH>
+</TR>
+<TR>
+<TD>PORSCHE</TD>
+<TD>PORSCHE 911 DT3 RS</TD>
+<TD>MXN4.778 millones</TD>
+</TR>
+<TR>
+<TD>FORD</TD>
+<TD>FORD FOCUS RS </TD>
+<TD>$640,000.DOLARES</TD>
+<TR>
+<TD>AUDI</TD>
+<TD> AUDI R8 </TD>
+<TD>4,999,900 pesos</TD>
+</TR>
+<TR>
+<TD>BMW</TD>
+<TD> bmw csl 3.0 hommage r</TD>
+<TD>€605.000</TD>
+</TR>
+</TABLE>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+https://www.instagram.com/reel/DFFhyDuKWXJ/?igsh=MTNnZnFpcHppZWx5Mw==
+</HEAD>
+https://open.spotify.com/intl-es/track/7sy72dgcHu2JnVTfugHgPc?si=449864de39d245e6
+https://mx.pinterest.com/pin/45247171251390323/
+<BODY BGCOLOR=SALMON>
+<TABLE>
+<TR>
+<TH>PELEA</TH>
+<TH>VISTAS</TH>
+<TH>RECAUDACION</TH>
+</TR>
+<TR>
+<TD>NURMAGOMEDOV VS McGREGOR</TD>
+<TD>2,4M</TD>
+<TD>180M DE DOLARES</TD>
+</TR>
+<TR>
+<TD>McMAGREGOR VS POIRIER</TD>
+<TD>1,8M</TD>
+<TD>120M DE DOLARES</TD>
+<TR>
+<TD>McMAGREGOR VS DIAZ 2</TD>
+<TD>1,65M</TD>
+<TD>90M DE DOLARES</TD>
+</TR>
+<TR>
+<TD>BROCK LESNAR VS MIR</TD>
+<TD>1,6M</TD>
+<TD>82M DE DOLARES</TD>
+</TR>
+</TABLE>
+<STYLE>
+TABLE, TH, TD{
+BORDER: 1PX SOLID BLACK;
+}
+</STYLE>
+https://www.instagram.com/reel/DDcwlp1qu-d/?igsh=MXhxZmFtbXpua3Y4eQ==
+</HEAD>
+https://open.spotify.com/intl-es/track/5xXaJHNtyBghk2F6AnP2PI?si=4e61abd30aa24368
+https://mx.pinterest.com/pin/45247171251390322/
+<BODY BGCOLOR=SALMON>
+<TABLE>
+<TR>
+<TH>LUCHADORA</TH>
+<TH>PAIS</TH>
+<TH>PESO LIBRA POR LIBRA</TH>
+</TR>
+<TR>
+<TD>Islam Makhachev</TD>
+<TD>Rusia</TD>
+<TD>PESO LIGERO</TD>
+</TR>
+<TR>
+<TD>Jon Jones</TD>
+<TD>USA</TD>
+<TD>PESO PESADO</TD>
+<TR>
+<TD>Ilia Topuria</TD>
+<TD>Georgia</TD>
+<TD>PESO PLUMA</TD>
+</TR>
+<TR>
+<TD>Alex Pereira</TD>
+<TD>Brasil</TD>
+<TD>PESO SEMIPESADO</TD>
+</TR>
+</TABLE>
+ https://www.instagram.com/reel/DC1z2HDKJXP/?igsh=MTFveHM3eTBmeDdoYg==
+<FONT COLOR=BLACK FONT=SCRIPT SIZE=30>
+JORGE ANTONIO VILLA MORENO <BR>
+18 AÑOS<BR>
+TERCERO IV<BR>
+MMA<BR>
+ENCHILADAS<BR>
+<FONT COLOR=BLACK SIZE=5 FACE=ARIAL>
+<MARQUEE DIRECTION=RIGHT SCROLLAMOUNT=5 LOOP=20>
+<p><em>I AM THE GREATEST OF ALL TIME,<u>UTILIZADO POR VARIOS LUCHADORES DE LA UFC,</u><BR>
+PARA RECLAMAR SU DOMINIO EN EL DEPORTE <b>UTILIZADAS POR ALGUNOS:,</b>,<BR>
+McGregor,  <u>Ronda Rousey</u>.</em></p><BR>
+</FONT>
+https://open.spotify.com/intl-es/track/5n8Aro6j1bEGIy7Tpo7FV7?si=77a2490d696f406d 
+https://mx.pinterest.com/pin/40180621669567284/
+</BODY>
+</HTML>
